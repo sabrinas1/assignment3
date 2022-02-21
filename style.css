@@ -7,3 +7,7 @@ name {display: block; font-size: 20px; color: #6c464f; font-weight: bold}
 artist {display: block; font-size: 18px; color: #04151f}
 
 genre, year {display: block; font-size: 16px; color: #04151f}
+
+genre:before {content: "Genre: "}
+
+year:before {content: "Released: "}
