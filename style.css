@@ -1,0 +1,9 @@
+songs {background-color: #eef0f2; width: 100%; margin-left: 5%}
+
+song {display: block; color: #c6c7c4; margin: auto;}
+
+name {display: block; font-size: 20px; color: #6c464f}
+
+artist {display: block; font-size: 18px; color: #04151f}
+
+genre, year {display: block; font-size: 16px; color: #04151f}
