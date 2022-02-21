@@ -1,1 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="style.css"?>
 
+<songs>
+<song>
+    <name>"Lovebug"</name>
+    <artist>The Jonas Brothers</artist>
+    <genre>pop rock</genre>
+    <year>2008</year>
+</song>
+<song>
+    <name>"You Belong With Me"</name>
+    <artist>Taylor Swift</artist>
+    <genre>country pop</genre>
+    <year>2008</year>
+</song>
+<song>
+    <name>"Love Me Harder"</name>
+    <artist>Ariana Grande</artist>
+    <genre>pop, synth-pop, R&B</genre>
+    <year>2014</year>
+</song>
+<song>
+    <name>"Someone To You"</name>
+    <artist>Banners</artist>
+    <genre>alternative</genre>
+    <year>2019</year>
+</song>
+<song>
+    <name>"Can't Feel My Face"</name>
+    <artist>The Weeknd</artist>
+    <genre>pop, funk, R&B</genre>
+    <year>2015</year>
+</song>
+<song>
+    <name>"All I Do is Win"</name>
+    <artist>DJ Khaled</artist>
+    <genre>hip hop</genre>
+    <year>2010</year>
+</song>
+<song>
+    <name>"On Top of The World"</name>
+    <artist>Imagine Dragons</artist>
+    <genre>alternative</genre>
+    <year>2012</year>
+</song>
+<song>
+    <name>"Get Lucky"</name>
+    <artist>Daft Punk</artist>
+    <genre>alternative, EDM</genre>
+    <year>2013</year>
+</song>
+<song>
+    <name>"Love Me Like You Do"</name>
+    <artist>Ellie Goulding</artist>
+    <genre>electropop</genre>
+    <year>2015</year>
+</song>
+<song>
+    <name>"...Ready For It?"</name>
+    <artist>Taylor Swift</artist>
+    <genre>pop</genre>
+    <year>2017</year>
+</song>
+<song>
+    <name>"Like I'm Gonna Lose You"</name>
+    <artist>Meghan Trainor</artist>
+    <genre>pop</genre>
+    <year>2016</year>
+</song>
+<song>
+    <name>"Crazy in Love"</name>
+    <artist>Beyonce</artist>
+    <genre>pop</genre>
+    <year>2003</year>
+</song>
+</songs>
