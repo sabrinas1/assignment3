@@ -1,6 +1,6 @@
-head {background-color: #885053; width: 100%; color: #04151f; font-size: 30px; font-weight: bold}
+head {background-color: #885053; width: 100%; color: #04151f; font-size: 30px; font-weight: bold; font-family: 'Dancing Script', cursive; padding: 5%; margin-bottom: 20px}
 
-songs {background-color: #eef0f2; width: 100%; margin-left: 5%; margin-top: 10px}
+songs {background-color: #eef0f2; width: 100%; margin-left: 5%;}
 
 song {display: block; color: #c6c7c4; padding-bottom: 10px;}
 
