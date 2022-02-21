@@ -1,8 +1,8 @@
-head {background-color: #885053; width: 100%; color: #04151f; font-size: 40px; font-weight: bold; font-family: 'Dancing Script', cursive; margin-bottom: 10px}
+head {display: block; background-color: #9E6B77; width: 100%; color: #04151f; font-size: 40px; font-weight: bold; margin-bottom: 10px}
 
 songs {background-color: #eef0f2; width: 100%; margin-left: 5%;}
 
-song {display: block; color: #c6c7c4; padding-top: 10px;}
+song {display: block; background-color: #c6c7c4; padding-top: 10px;}
 
 name {display: block; font-size: 20px; color: #6c464f; font-weight: bold}
 
